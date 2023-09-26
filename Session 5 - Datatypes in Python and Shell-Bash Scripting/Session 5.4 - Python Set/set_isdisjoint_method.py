@@ -27,10 +27,9 @@ print("\nAre Sets Disjoint:", are_disjoint)
 """
                         Output - 
 ---------------------------------------------------------------
-Smooth Finish Colors: {'Satin Blue', 'Antique White', 'Silk White', 'Classic Ivory'}
-Ultra Sheen Finish Colors: {'Satin Blue', 'Glossy Black', 'Metallic Silver'}
+Smooth Finish Colors: {'Antique White', 'Classic Ivory', 'Satin Blue', 'Silk White'}
+Ultra Sheen Finish Colors: {'Satin Blue', 'Metallic Silver', 'Glossy Black'}
 
-Colors that are present in either of the sets but not in both:
-{'Classic Ivory', 'Antique White', 'Glossy Black', 'Silk White', 'Metallic Silver'}
+Are Sets Disjoint: False
 
 """
